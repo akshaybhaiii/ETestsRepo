@@ -1,5 +1,9 @@
 package com.cjc;
 
 public class Student {
-	int rollno;
+
+
+  int rollno;
+
+
 }
